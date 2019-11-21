@@ -22,8 +22,11 @@ The user has choices: 1 - start search in files or 2 - see a list of searchable 
 
 The application is able to search within the 'tags' attribute too. For example, one would like to find Tickets with tag `Washington`. 
 
-Screenshots examples
-![search](./img/search.jpeg | width=200)
-![search2](./img/no_results.jpeg)
+## Screenshots examples
+
+<img src="img/search.png" width="400px">
+<img src="img/no_results.png" width="400px">
+
+
 
 
